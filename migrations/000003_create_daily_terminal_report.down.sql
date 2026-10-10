@@ -1,0 +1,1 @@
+DROP PROCEDURE IF EXISTS sp_daily_terminal_report;

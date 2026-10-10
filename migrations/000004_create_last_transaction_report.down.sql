@@ -1,0 +1,1 @@
+DROP PROCEDURE IF EXISTS sp_last_transaction_report;
